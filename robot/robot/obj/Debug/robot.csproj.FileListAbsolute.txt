@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\robot\robot\obj\Debug\robot.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\robot\robot\obj\Debug\robot.csproj.CoreCompileInputs.cache
